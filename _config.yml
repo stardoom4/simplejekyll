@@ -28,7 +28,7 @@ url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for you
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: Celestial Minds
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
@@ -47,30 +47,24 @@ tagline: # subheading won't work without a tagline,
   enabled: true
   name: An experiment to spark conversations
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2023
+  msg: Garuda PS
 
 user:
   display: true # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
-  bio: Programmer ∪ Writer. Interested in constraints and correspondences.
-  email: raghu-veer@outlook.com
+  name: Garuda
+  bio: Aspiring physicist, and a Self-Made Consipiracy Theorist.
+  email: noemail@gmail.com
   photo: /assets/img/profile.png
   alt_link: rgvr.me
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
-    twitter: rgvrme
-    github: rgvr 
-    youtube: rgvr 
-    linkedin: rgvr  
-    twitch: null
-    facebook: null 
-    instagram: null
-
+    enabled: true  # turn this to true
+    twitter: Garuda4244
+    github: stardoom4 
 
 
 #####################################################################
