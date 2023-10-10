@@ -35,7 +35,7 @@ subheading: # subheading won't work without a tagline,
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes and Thoughts
+  name: A Knowledge Repository 
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -59,7 +59,7 @@ user:
   bio: Aspiring physicist, and a Self-Made Consipiracy Theorist.
   email: noemail@gmail.com
   photo: /assets/img/profile.png
-  alt_link: rgvr.me
+  alt_link: 
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: true  # turn this to true
@@ -125,7 +125,7 @@ plugins:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: rgvr
+    shortname: 
 
 markdown: kramdown
 
