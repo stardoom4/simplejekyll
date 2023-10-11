@@ -18,9 +18,8 @@ Maybe someday, I will write about myself.
 
 ### Other Details:
 
-- The site lives on [[Github::https://github.com/rgvr/simply-jekyll]] and is served using Netlify
+- The site lives on [[Github::https://github.com/stardoom4/simplejekyll]] and is served using Netlify.
 - This website is statically generated using Jekyll from a set of Markdown files.
-  - The Jekyll theme can be found on my Github Page, It is called "Simply-Jekyll"
-- Except lunrjs and katex, there are no third party libraries. Discord is an opt-in, I don't use on my [[site::https://rgvr.me]]. I strongly believe in user privacy.
+- Except lunrjs and katex, there are no third party libraries. Discord is an opt-in. I strongly believe in user privacy.
 
 
