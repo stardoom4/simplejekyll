@@ -7,13 +7,13 @@ layout: Stylesheet
 
 :root {
     --main-hue: 0;
-    --primary-bg-color: #121212;
+    --primary-bg-color: hsl(var(--main-hue), 0%, 100%);
     --secondary-bg-color: hsl(var(--main-hue), 0%, 96.9%);
     --ternary-bg-color: hsl(var(--main-hue), 0%, 91.4%);
     --quaternary-bg-color: hsl(var(--main-hue), 0%, 93%);
     --quinary-bg-color: hsl(var(--main-hue), 100%, 100%);
 
-    --primary-border-color: #05d9e8;
+    --primary-border-color: #121212
     --secondary-border-color: hsl(var(--main-hue), 0%, 91.4%);
     --ternary-border-color: hsl(var(--main-hue), 0%, 87.5%);
 
