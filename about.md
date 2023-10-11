@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: 🧑‍🚀 About Me and This Garden.
+title: About
 permalink: /about/
 ---
 
